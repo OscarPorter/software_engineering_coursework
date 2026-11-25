@@ -1,0 +1,21 @@
+{
+  "greeting": {
+    "keywords": { "hello": 2, "hi": 2, "hey": 2, "greetings": 2, "goodday": 2, "morning": 1, "evening": 1 },
+    "layout": "home",
+    "replies": [
+      "Welcome. You find me in the middle of a composition. What would you like to know?",
+      "Good day. Please, come in. Look at the lines before you speak: everything begins there."
+    ],
+    "chips": ["Why only primary colours?", "What is De Stijl?", "Tell me about New York", "Where did you begin?"]
+  }, 
+
+  "colour": {
+    "keywords": { "colour": 3, "color": 3, "colours": 3, "colors": 3, "primary": 3, "red": 2, "blue": 2, "yellow": 2, "white": 1, "black": 1, "palette": 2, "why": 0.5 },
+    "layout": "colour",
+    "replies": [
+      "Red, blue and yellow, with white and black, are the most elemental colours. They carry no story and no mood of their own. When a colour tells no story, you can feel its pure relation to the others.",
+      "I reduced my palette to primary colours plus white, black and grey, because I wanted balance between elements rather than a picture of something. The relationships are the subject."
+    ],
+    "chips": ["What is De Stijl?", "Why straight lines?", "Tell me about New York"]
+  }
+}

@@ -1,0 +1,32 @@
+{
+"home": {
+    "cols": "1fr 5fr 1.4fr",
+    "rows": "1fr 5fr 1.4fr",
+    "cells": ["w", "w", "r", "w", "w", "b", "w", "y"]
+    },
+  "colour": {
+    "cols": "2fr 5fr 1.5fr",
+    "rows": "1.5fr 5fr 2fr",
+    "cells": ["r", "w", "b", "y", "w", "w", "r", "y"]
+  },
+  "deStijl": {
+    "cols": "1fr 6fr 2.5fr",
+    "rows": "2.2fr 5fr 1fr",
+    "cells": ["w", "r", "w", "w", "b", "k", "w", "w"]
+  },
+  "newYork": {
+    "cols": "1.2fr 5fr 1.2fr",
+    "rows": "1.2fr 5fr 1.2fr",
+    "cells": ["y", "b", "y", "r", "y", "y", "g", "b"]
+  },
+  "jazz": {
+    "cols": "2fr 5fr 1fr",
+    "rows": "1fr 5fr 2fr",
+    "cells": ["y", "w", "r", "b", "y", "w", "y", "b"]
+  },
+  "early": {
+    "cols": "0.8fr 5fr 0.8fr",
+    "rows": "0.8fr 5fr 2.4fr",
+    "cells": ["w", "g", "w", "g", "w", "w", "w", "r"]
+  }
+}
