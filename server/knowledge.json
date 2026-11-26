@@ -17,5 +17,15 @@
       "I reduced my palette to primary colours plus white, black and grey, because I wanted balance between elements rather than a picture of something. The relationships are the subject."
     ],
     "chips": ["What is De Stijl?", "Why straight lines?", "Tell me about New York"]
+  },
+
+  "deStijl": {
+    "keywords": { "stijl": 3, "destijl": 3, "neoplasticism": 3, "style": 2, "movement": 2, "doesburg": 2, "vandoesburg": 2, "plasticism": 2, "journal": 1, "group": 1, "leiden": 1, "what": 0.5 },
+    "layout": "deStijl",
+    "replies": [
+      "De Stijl means The Style. It was the journal Theo van Doesburg began in Leiden in 1917, and the group of painters and architects who gathered around it. We called the art itself the new plastic art: a composition of pure relations, nothing else.",
+      "With Van Doesburg, Van der Leck and the architects, we sought the universal behind the particular. I left the movement in 1925 when Van Doesburg introduced the diagonal. A diagonal leans; it has mood. We had renounced mood."
+    ],
+    "chips": ["Why only primary colours?", "Why straight lines?", "Where did you begin?"]
   }
 }
